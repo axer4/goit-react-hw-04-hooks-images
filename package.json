@@ -1,9 +1,9 @@
 {
-  "name": "goit-react-hw04-hooks-images",
+  "name": "goit-react-hw-04-hooks-images",
   "version": "0.1.0",
-  "description": "goit-react-hw04-hooks-images",
+  "description": "goit-react-hw-04-hooks-images",
   "private": true,
-  "homepage": "https://axer4.github.io/goit-react-hw04-hooks-images",
+  "homepage": "https://axer4.github.io/goit-react-hw-04-hooks-images",
   "author": "Aleksey Borshch",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
